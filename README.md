@@ -1,1 +1,1 @@
-# bitcoin-predict-timeseries
+I wanted to create a time series model to predict the price of Bitcoin. This project is not something I have used to deploy anything in the world, it was created for hands-on work with a time series project. This code is a project adapted directly from the Udemy course TensorFlow Developer Certificate in 2023: Zero to Mastery.
